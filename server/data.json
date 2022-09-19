@@ -1,14 +1,29 @@
 {
-    "todos": [
-        {
-            "id": 1,
-            "task": "Belajar Back-End",
-            "status": true
-        },
-        {
-            "id": 2,
-            "task": "Kerjakan Tugas",
-            "status": false
-        }
-    ]
+  "todos": [
+    {
+      "id": 1,
+      "task": "Belajar Back-End",
+      "status": true
+    },
+    {
+      "id": 2,
+      "task": "Kerjakan Tugas",
+      "status": false
+    },
+    {
+      "id": 3,
+      "task": "Explore REST API",
+      "status": true
+    },
+    {
+      "task": "Tests",
+      "status": false,
+      "id": 4
+    },
+    {
+      "task": "Tests 123",
+      "status": false,
+      "id": 5
+    }
+  ]
 }
